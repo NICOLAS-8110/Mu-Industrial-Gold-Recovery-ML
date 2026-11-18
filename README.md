@@ -63,6 +63,9 @@ Los atributos siguen la nomenclatura `[etapa].[tipo_parametro].[nombre_parametro
 
 ## 📂 Archivos Principales
 * `Proyecto_Mu_Prediccion_de_Recuperacion_de_Oro.ipynb`
+* `gold_recovery_full.7z`
+* `gold_recovery_test.csv`
+* `gold_recovery_train.7z`
 
 ## 🏁 Conclusión
 Se desarrolló un sistema predictivo robusto basado en **Bosque Aleatorio** capaz de estimar la recuperación de oro en las etapas *rougher* y final con un **sMAPE ponderado de 7.39%** sobre datos no vistos. La solución proporciona a **Zyfra** una herramienta confiable para anticipar el rendimiento metalúrgico y optimizar las condiciones operativas en planta.
